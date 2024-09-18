@@ -29,9 +29,9 @@ I am also a Senior Python and JavaScript Developer, with 23,000+ commits on GitH
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/atcit/actpy?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/atcit/actpy?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/atcit/actpy?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/atcit/actpy?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/elbagoury?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/elbagoury?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/elbagoury?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/elbagoury?color=red&style=plastic)
 
 <br/>
